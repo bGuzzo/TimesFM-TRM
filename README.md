@@ -1,29 +1,3 @@
-
-```
-      _____________________________________
-     |                                     |
-     |    DISCONNECT CAPACITOR DRIVE       |
-     |           BEFORE OPENING            |
-     |                                     |
-     |      +----------------------------+ |
-     |      |                            | |
-     |      |   \        |        /      | |
-     |      |    \       |       /       | |
-     |      |     \      |      /        | |
-     |      |      \     |     /         | |
-     |      |      _\    |    /_         | |
-     |      |     /  \   |   /  \        | |
-     |      |    /    \  |  /    \       | |
-     |      |   /      \ | /      \      | |
-     |      |  *        *        *       | |
-     |      |                            | |
-     |      +----------------------------+ |
-     |              SHIELD EYES            |
-     |             FROM LIGHT               |
-     |_____________________________________|
-
-```
-
 # TimesFM-TRM: Combining Time Series Forecasting with Reasoning Models
 
 This project explores the potential of combining state-of-the-art time series foundation models with reasoning models for financial forecasting. The core idea is to leverage the predictive power of models like TimesFM and enhance it with the reasoning capabilities of models like TRM to analyze vast amounts of financial asset time series data.
